@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+        <item
+            android:id="@+id/navPickData"
+            android:icon="@mipmap/ic_list_black_24dp"
+            android:title="Tria una Data" />
+        <item
+            android:id="@+id/navAboutApp"
+            android:icon="@mipmap/ic_info_black_24dp"
+            android:title="Sobre l'APP" />
+
+</menu>
